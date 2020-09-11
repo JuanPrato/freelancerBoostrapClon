@@ -3,4 +3,4 @@ A clon of https://startbootstrap.github.io/startbootstrap-freelancer using only 
 
 To see the page click on the following link
 
-[PAGE](https://juanprato.github.io/freelancerBoostrapClon/)
+<a href="https://juanprato.github.io/freelancerBoostrapClon/" target="_blank">VISIT THEE PAGE</a>
